@@ -9,6 +9,7 @@ body
 background-color: #ffa603;
 border: none;
 padding: 16px;
+ display :none
 
 }
 .navbar-brand img
